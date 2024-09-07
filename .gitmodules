@@ -1,3 +1,0 @@
-[submodule "sql-apps"]
-	path = sql-apps
-	url = https://github.com/btholt/sql-apps.git
