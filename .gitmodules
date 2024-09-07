@@ -1,0 +1,6 @@
+[submodule "practice/sql-apps"]
+	path = practice/sql-apps
+	url = https://github.com/btholt/sql-apps.git
+[submodule "sql-apps"]
+	path = sql-apps
+	url = https://github.com/btholt/sql-apps.git
